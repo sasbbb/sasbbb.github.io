@@ -1,5 +1,5 @@
-Document.addEventListener("DOMContentLoaded", () => {
-  Document.querySelector("#btn").addEventListener("click", () => {
+//document.addEventListener("DOMContentLoaded", () => {
+  document.querySelector("#btn").addEventListener("click", () => {
     alert("hi");
   });
-});
+//});
