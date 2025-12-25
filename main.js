@@ -1,3 +1,3 @@
-document.queryRequest("h1").addEventListener("click", () => {
+Document.querySelector("h1").addEventListener("click", () => {
   alert("hi");
 }
